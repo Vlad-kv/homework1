@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">Calc</string>
+    <string name="app_name">Calculator</string>
+    <string name="del_text"><![CDATA[<-]]></string>
+
+    <string name="d0_text">0</string>
+    <string name="d1_text">1</string>
+    <string name="d2_text">2</string>
+    <string name="d3_text">3</string>
+    <string name="d4_text">4</string>
+    <string name="d5_text">5</string>
+    <string name="d6_text">6</string>
+    <string name="d7_text">7</string>
+    <string name="d8_text">8</string>
+    <string name="d9_text">9</string>
+    <string name="clear_text">C</string>
+    <string name="eqv_text">=</string>
+    <string name="add_text">+</string>
+    <string name="sub_text">-</string>
+    <string name="mul_text">*</string>
+    <string name="div_text">/</string>
+    <string name="left_bracket_text">(</string>
+    <string name="right_bracket_text">)</string>
+
+    <string name="incorrect_expression_exception_text">Incorrect expression.</string>
+    <string name="error_text">Error</string>
+    <string name="input_hint_text">Введите выражение</string>
+    <string name="comma_text">,</string>
 </resources>
